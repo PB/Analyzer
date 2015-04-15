@@ -1,7 +1,10 @@
-Analyizer 
-==========
+= \Analyizer 
 
-Analyzes given text file or use demo text.
+== Analyzes given text file or use demo text.
+
 
 Use:
-ruby analyzer.rb text.txt
+
+  $ ruby analyzer.rb [file...]
+  $ ruby analyzer.rb text.txt
+
