@@ -1,0 +1,7 @@
+Analyizer 
+==========
+
+Analyzes given text file or use demo text.
+
+Use:
+ruby analyzer.rb text.txt
